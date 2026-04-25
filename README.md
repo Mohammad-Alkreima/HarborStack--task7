@@ -22,8 +22,8 @@ A lightweight RESTful API built with **Express.js** to manage port crews and doc
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repository-url>
-   cd harborstack-api
+   git clone https://github.com/Mohammad-Alkreima/HarborStack--task7.git
+   cd HarborStack--task7
    ```
 
 2. Install dependencies:
